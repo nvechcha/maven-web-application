@@ -29,7 +29,7 @@
 <hr>
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
+<p align=center>DSC 24/7 support.</p>
 <p align=center><small>Copyrights 2018 by <a href="http://welcome2ibm.com/">IBM</a> </small></p>
 
 </body>
