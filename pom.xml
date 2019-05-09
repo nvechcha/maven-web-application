@@ -3,18 +3,18 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>DSC-web-application</artifactId>
 	<packaging>war</packaging>
 	<version>1.3-SNAPSHOT</version>
 	
-	<name>Maven Web Application</name>
+	<name>DSC Web Application</name>
 	<url>http://mithuntechnologies.com</url>
 	
 	<description>Maven Web Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>DSC</name>
+		<url>http://welcome2ibm.com/</url>
 	</organization>
 
 	<properties>
@@ -89,12 +89,12 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>DSC Releases Nexus Repository</name>
 	      <url>http://13.233.104.238:8081/repository/maven_release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>DSC Snapshot Nexus Repository </name>
 	      <url>http://13.233.104.238:8081/repository/mavenhosted_snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
