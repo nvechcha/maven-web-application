@@ -8,7 +8,7 @@
 	<version>1.3-SNAPSHOT</version>
 	
 	<name>DSC Web Application</name>
-	<url>http://welcome2ibm.com</url>
+	<url>http://welcome</url>
 	
 	<description>Maven Web Project</description>
 
